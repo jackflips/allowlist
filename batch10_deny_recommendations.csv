@@ -1,0 +1,117 @@
+# Batch 10 Review - Apps Flagged for DENY
+# Source rows: 22502-25163 from all_apps_google_play_v4_allowed_only.csv
+# Review Date: 2026-02-01
+# Reviewer: Claude (Automated)
+# Format: App ID,App Name,Category,Reason
+com.floatflyapp.fast.secure.proxy,"Float VPN - Private,VPN-UNBLOCK,Explicitly mentions unblocking/bypassing restrictions
+com.securevpn.pivpn.vpn.proxy.unblock,Pi VPN - Unlimited internet,VPN-UNBLOCK,Explicitly mentions unblocking/bypassing restrictions
+com.astrill.astrillvpn,Astrill VPN,VPN-UNBLOCK,Explicitly mentions unblocking/bypassing restrictions
+com.megabus.onyxproxy,Onyx VPN : Fast Secure VPN,VPN-UNBLOCK,Explicitly mentions unblocking/bypassing restrictions
+de.megaspeed.vpn,RAP VPN - Unlimited VPN Proxy,VPN-UNBLOCK,Explicitly mentions unblocking/bypassing restrictions
+com.vpnshieldapp,VPN Shield: Unblock Websites,VPN-UNBLOCK,Explicitly mentions unblocking/bypassing restrictions
+com.anythingintellect.freednschanger,DNS Changer No Root 4g 5g wifi,VPN-UNBLOCK,Explicitly mentions unblocking/bypassing restrictions
+com.metateam.metavpn,MW VPN : Hotspot VPN Proxy,VPN-UNBLOCK,Explicitly mentions unblocking/bypassing restrictions
+ultrafast.freevpn.secure.unblock.proxy,UltrafastVPN: Private & Secure,VPN-UNBLOCK,Explicitly mentions unblocking/bypassing restrictions
+app.troyvpn.android.vpn.unblock.proxy.secure.pro,Troy VPN: Secure VPN & Fast,VPN-UNBLOCK,Explicitly mentions unblocking/bypassing restrictions
+com.megabus.sparkvpn,Spark VPN : Fast Secure VPN,VPN-UNBLOCK,Explicitly mentions unblocking/bypassing restrictions
+com.free.vpn.globalserver.secure,VPN Master: Fast & Secure VPN,VPN-UNBLOCK,Explicitly mentions unblocking/bypassing restrictions
+com.speed.svpn,TikVPN - Fast & Safe Proxy,VPN-UNBLOCK,Explicitly mentions unblocking/bypassing restrictions
+fruice.tomatovpn.security.turbo.proxy.ipchanger.unblocksites,Tomato VPN - Hotspot VPN Proxy,VPN-UNBLOCK,Explicitly mentions unblocking/bypassing restrictions
+com.free.unblock.proxy.goatvpn,Goat VPN,VPN-UNBLOCK,Explicitly mentions unblocking/bypassing restrictions
+free.vpn.unblockwebsite,Ava VPN - Safer & Faster VPN,VPN-UNBLOCK,Explicitly mentions unblocking/bypassing restrictions
+com.outcoder.browser,Surfy Browser: text-to-speech,BROWSER,Enables unrestricted web access
+com.cloudmosa.puffintvcontroller,Puffin TV Remote,BROWSER,Enables unrestricted web access
+com.awsmaps.animatedtextstickermaker,Animated Text Sticker Maker,STICKERS,Entertainment/social media enhancement
+com.kaviraj.tamilcomedy,Stickers King Tamil Stickers,STICKERS,Entertainment/social media enhancement
+com.wastickerapps.loveemoji,Stickers and emoji - WASticker,STICKERS,Entertainment/social media enhancement
+com.wastickerapps.goodmorningsticker,Good Morning Stickers,STICKERS,Entertainment/social media enhancement
+com.shareitagain.wastickerapps.animated.emoji,Animated Emoji - WAStickerApps,STICKERS,Entertainment/social media enhancement
+com.secure.wastickerapp,Stickers and emoji - WASticker,STICKERS,Entertainment/social media enhancement
+com.onepic.lovestickerapp,Love Sticker Packs - WASticker,STICKERS,Entertainment/social media enhancement
+com.stickersdeamor.stickerconfrasesdeamor,Stickers de amor - WASticker,STICKERS,Entertainment/social media enhancement
+com.s1.marocstickers,Animated Maroc sticker,STICKERS,Entertainment/social media enhancement
+com.wastickerapps.wastickerappslove.lovestickers.wastickerappsamor.colorit,WASticker - All Love Stickers,STICKERS,Entertainment/social media enhancement
+com.proWAStickerApps.bunnystickers.wastickerappsconejitos,Rabbit Stickers WAStickerApps,STICKERS,Entertainment/social media enhancement
+com.whatsappstickers.christianmotivation,Christian Motivation Stickers,STICKERS,Entertainment/social media enhancement
+com.sigstick.myapp,SigStick Sticker Maker,STICKERS,Entertainment/social media enhancement
+kgfstickers.forwhatsapp.hihellotext,Text Sticker Maker,STICKERS,Entertainment/social media enhancement
+com.dstukalov.walocalstoragestickers,Personal stickers for WhatsApp,STICKERS,Entertainment/social media enhancement
+com.wasticker.stickermaker.stickers,Sticker Maker for WhatsApp,STICKERS,Entertainment/social media enhancement
+wastickerapps.stickersforwhatsapp,More Stickers For WhatsApp,STICKERS,Entertainment/social media enhancement
+com.shareitagain.christmas.stickers,Christmas Stickers WASticker,STICKERS,Entertainment/social media enhancement
+com.tmidev.cutestickers,Cute Stickers,STICKERS,Entertainment/social media enhancement
+com.stickersrajatelugu.stickersrajatelugu,Stickers Raja : Telugu Sticker,STICKERS,Entertainment/social media enhancement
+com.proWAStickerApps.beautifulanimals.stickers,Beautiful Animals Stickers,STICKERS,Entertainment/social media enhancement
+com.noxivu.animeanimated,Anime Whatsapp stickers,STICKERS,Entertainment/social media enhancement
+com.mochi.cat.stickers.wastickerapps.animated.stickersforwhatsapp,Mochi Cat Animated Stickers,STICKERS,Entertainment/social media enhancement
+com.malayalam.whatsappstickers,Malayalam Stickers 2025,STICKERS,Entertainment/social media enhancement
+us.romanticstickers.lovestickers.couplelovestickers.lovestickers.for.whatsapp,Love Stickers for Whatsapp,STICKERS,Entertainment/social media enhancement
+com.wastickerapps.footballstickers,WASticker - Football Stickers,STICKERS,Entertainment/social media enhancement
+com.WAStickerAppsCollections.emojisstickers.WAStickerApps.animatedemojis,Animated Emojis WAStickerApps,STICKERS,Entertainment/social media enhancement
+pw.stickers.babieschildren,Stickers: Babies Children Cute,STICKERS,Entertainment/social media enhancement
+com.kiss.lips.stickers.wastickerapps.lipstick.stickersforwhatsapp,Love stickers for WhatsApp,STICKERS,Entertainment/social media enhancement
+com.stickers_romanticos_animados.wasticker,Stickers Romanticos y Frases,STICKERS,Entertainment/social media enhancement
+com.Romanticos_animes_Stickers.FrasesDeAmor_teamo_teqiero.starmaker_wastickers_halame_likee,Stickers Romanticos WASticker,STICKERS,Entertainment/social media enhancement
+sticker.ly,Emoji and Memoji Sticker Maker,STICKERS,Entertainment/social media enhancement
+com.tz.love.stickers.maker.animated.emoji.funny.anime,Stickers & Animated Love Emoji,STICKERS,Entertainment/social media enhancement
+wa.stickers.emoji.animated.memoji3D,3D Emoji Stickers for WhatsApp,STICKERS,Entertainment/social media enhancement
+com.emojimaker.wasticker,Emoji maker procreate stickers,STICKERS,Entertainment/social media enhancement
+com.wastickerapps.stickersforwhatsapp.lovesticker.zeegap,WASticker - Love Stickers App,STICKERS,Entertainment/social media enhancement
+com.proWAStickerApps.pigsstickers.stickerscerditos,Pigs Stickers Packs WASticker,STICKERS,Entertainment/social media enhancement
+com.bmesolutions.whatsappsticker,Tamil WASticker -1500+stickers,STICKERS,Entertainment/social media enhancement
+com.shareitagain.animatext.stickers_maker,Text sticker maker WASticker,STICKERS,Entertainment/social media enhancement
+wastickerapps.whatsticker,Magic Sticker Maker WASticker,STICKERS,Entertainment/social media enhancement
+com.mirzahuseyn.azestickers,Azerbaijan Stickers,STICKERS,Entertainment/social media enhancement
+wastickerapps.funny.emoji.stickers.stickermaker.forwhatsapp,Funny Emojis Stickers,STICKERS,Entertainment/social media enhancement
+com.ndroidapps.stickers_wastickerapps,HD Emoji Stickers - WAStickerA,STICKERS,Entertainment/social media enhancement
+apk.studio.love.stickers,Love Stickers for Whatsapp,STICKERS,Entertainment/social media enhancement
+com.mitved.teddybearstickers,Teddy Bear Sticker - WASticker,STICKERS,Entertainment/social media enhancement
+com.ikeyboard.theme.punkskull,Punk Skull 💀 Keyboard Theme,KEYBOARD-THEME,Non-essential customization
+com.anysoftkeyboard.theme.ics,ICS Theme for AnySoftKeyboard,KEYBOARD-THEME,Non-essential customization
+com.fonts.keyboard.stylish.emoji.theme.background,Fonts keyboard - Stylish text,KEYBOARD-THEME,Non-essential customization
+com.ikeyboard.theme.galaxy.rainbow,Galaxy Rainbow Theme,KEYBOARD-THEME,Non-essential customization
+com.ikeyboard.theme.sakura.floral,Sakura Floral Theme,KEYBOARD-THEME,Non-essential customization
+com.ikeyboard.theme.pink.floral.sakura,Pink Floral Sakura Theme,KEYBOARD-THEME,Non-essential customization
+com.jb.gokeyboard.theme.CoolThemes.hackerbest,Hacker keyboard,KEYBOARD-THEME,Non-essential customization
+com.ikeyboard.theme.neon.blue.hacker,Neon Blue Hacker Keyboard Back,KEYBOARD-THEME,Non-essential customization
+com.ikeyboard.theme.pink.cute.owl,Pink Cute Owl Keyboard Theme,KEYBOARD-THEME,Non-essential customization
+com.ikeyboard.theme.fantasy.galaxy,Fantasy Galaxy Keyboard Theme,KEYBOARD-THEME,Non-essential customization
+com.ikeyboard.theme.sweet.ladybird,Sweet Ladybird Keyboard Theme,KEYBOARD-THEME,Non-essential customization
+com.ikeyboard.theme.cute.tongue.cup.puppy,Cute Tongue Cup Puppy Keyboard,KEYBOARD-THEME,Non-essential customization
+com.ikeyboard.theme.sunny.daisy,Sunny Daisy Keyboard Theme,KEYBOARD-THEME,Non-essential customization
+com.ikeyboard.theme.blue.fancy.butterfly,Blue Fancy Butterfly Theme,KEYBOARD-THEME,Non-essential customization
+com.ikeyboard.theme.pink_luxury_watch,Pink Luxury Watch Theme,KEYBOARD-THEME,Non-essential customization
+com.ikeyboard.theme.delicate.neon.butterfly,Neon Butterfly Theme,KEYBOARD-THEME,Non-essential customization
+com.khmer.keyboard.khmer.language.keyboard.app,Khmer Keyboard,KEYBOARD-THEME,Non-essential customization
+com.techapps.neonledkeyboard.ikeyboard.love.neon.theme,Neon LED Keyboard: RGB & Emoji,KEYBOARD-THEME,Non-essential customization
+com.keyboardshub.inputmethod.type.emoji.multilangual.keyboard,Multi Language keyboard,KEYBOARD-THEME,Non-essential customization
+com.ikeyboard.theme.flash_butterfly,Flash Butterfly Keyboard Theme,KEYBOARD-THEME,Non-essential customization
+com.smarttechapps.emoji,Emoji Keyboard,KEYBOARD-THEME,Non-essential customization
+com.ikeyboard.theme.SpringTime,Springtime Flowers Keyboard Th,KEYBOARD-THEME,Non-essential customization
+com.ikeyboard.theme.lightning_wolf,Lightning Wolf Keyboard Theme,KEYBOARD-THEME,Non-essential customization
+com.ikeyboard.theme.pink.roses.gravity,Pink Roses Gravity Keyboard Ba,KEYBOARD-THEME,Non-essential customization
+com.amharic.keyboard.ethiopia.voicetyping,Amharic Keyboard Ethiopia,KEYBOARD-THEME,Non-essential customization
+com.armenian.keyboard.armenia.language.keyboard.app,Armenian Keyboard,KEYBOARD-THEME,Non-essential customization
+com.tigrinya.keyboard.for.android,Tigrinya Keyboard,KEYBOARD-THEME,Non-essential customization
+com.cem.cute.cat.keyboard,Cat Keyboard - Cute Kitty Skin,KEYBOARD-THEME,Non-essential customization
+com.ikeyboard.theme.glass.water,Glass Water Keyboard Theme,KEYBOARD-THEME,Non-essential customization
+com.adyala.mongolian.keyboard.new_mongolian_language_app.cyrillic.mongoli,Mongolian keyboard,KEYBOARD-THEME,Non-essential customization
+com.jb.gokeyboard.theme.CoolThemes.redvelvet,Red Velvet Keyboard,KEYBOARD-THEME,Non-essential customization
+com.tamil.keyboard.tamil.language.keyboard.app,Tamil keyboard,KEYBOARD-THEME,Non-essential customization
+com.ikeyboard.theme.super.neon_3d,Super Neon 3D Theme,KEYBOARD-THEME,Non-essential customization
+com.ikeyboard.theme.neon.lights.heart,Neon Lights Heart Theme,KEYBOARD-THEME,Non-essential customization
+com.ikeyboard.theme.sparkling.neon_3d,Sparkling Neon 3d Keyboard The,KEYBOARD-THEME,Non-essential customization
+com.ikeyboard.theme.neon.heart.love,Neon Heart Love Theme,KEYBOARD-THEME,Non-essential customization
+com.ikeyboard.theme.neonblue,Neon Blue Keyboard Theme,KEYBOARD-THEME,Non-essential customization
+com.ikeyboard.theme.green.neon.check,Green Neon Check Theme,KEYBOARD-THEME,Non-essential customization
+com.facemoji.ledkeyboard.neonkeyboard.theme,Neon LED Keyboard - RGB Themes,KEYBOARD-THEME,Non-essential customization
+com.flowiemusic.tiles.mp3.player.magictiles,Flowie: Music Player,MUSIC-PLAYER,Entertainment app
+audioplayer.musicplayer.bassboost,Music Player with Equalizer,MUSIC-PLAYER,Entertainment app
+jp.co.radius.neplayer_lite_an,ハイレゾ対応音楽プレイヤー［NePLAYER Lite］,MUSIC-PLAYER,Entertainment app
+com.simplecity.amp_pro,Shuttle+ Music Player (Legacy),MUSIC-PLAYER,Entertainment app
+naman14.timber,Timber Music Player,MUSIC-PLAYER,Entertainment app
+com.video.music.app.mpthree.music.player,mp3 Music Player,MUSIC-PLAYER,Entertainment app
+com.hiby.music,HiBy Music,MUSIC-PLAYER,Entertainment app
+media.mp3.mp3player,MP3 Player Pro - Music Player,MUSIC-PLAYER,Entertainment app
+com.ntl.optimus.mp3musicplayer,VL Music Player,MUSIC-PLAYER,Entertainment app
+musicplayer.mp3player.music.audioplayer.musicapps.mediaplayer,Music Player: Play MP3 Offline,MUSIC-PLAYER,Entertainment app
